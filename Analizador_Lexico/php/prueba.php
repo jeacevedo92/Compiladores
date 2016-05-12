@@ -4,12 +4,9 @@
 
  	$cali = 0;
 
- 	$mauro_is_gay = true;
-
- 	$gays = $cali + $mauro_is_gay;
-
- 	echo $gays;
-
+ 	for ($i=0; $i <4 ; $i++) { 
+ 		$cali = 0;
+ 	}
   //esto es un comentario corto 
 
       require('conexion.php');

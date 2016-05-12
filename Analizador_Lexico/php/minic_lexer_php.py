@@ -9,7 +9,7 @@ import sys
 # list of tokens
 tokens = (
     # Reserverd words
-    'AS',  #por que hptas me sale error 
+    'AS',
     'BREAK',  
     'CONTINUE', 
     'DO',  
